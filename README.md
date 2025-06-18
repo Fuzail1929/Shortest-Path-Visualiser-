@@ -4,7 +4,7 @@ Graph traversal pathfinding algorithms visualised in Python using Tkinter. Algor
 # Depth-first search (DFS)
 Depth-first search (DFS) starts at the root node and explores the current branches extremeties before backtracking.
 # 
-([https://github.com/ad-1/PathfindingVisualisation/raw/master/images/depth-first-search.gif)](https://github.com/ad-1/PathfindingVisualisation/blob/master/images/depth-first-search.gif)![Uploading image.png…]()
+(https://github.com/ad-1/PathfindingVisualisation/blob/master/images/depth-first-search.gif)![Uploading image.png…]()
 
 
 # Dijkstra's Algorithm
