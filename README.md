@@ -1,5 +1,5 @@
 # Shortest-Path-Visualiser-
-Graph traversal pathfinding algorithms visualised in Python using Tkinter. Algorithms include , Depth First Search (DFS) & Dijkstra's Algorithm . Think of a graph as a network of nodes. Types of graphs include logistic or road networks, IP routing and GPS coodinates.
+Graph traversal pathfinding algorithms visualised in Python . Algorithms include , Depth First Search (DFS) & Dijkstra's Algorithm . Think of a graph as a network of nodes. Types of graphs include logistic or road networks, IP routing and GPS coodinates.
 
 # Depth-first search (DFS)
 Depth-first search (DFS) starts at the root node and explores the current branches extremeties before backtracking.
